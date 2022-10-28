@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="./assets/sweetalert2.css">
     <link rel="stylesheet" href="./DataTable/dataTables.semanticui.min.css">
     <link rel="stylesheet" href="./DataTable/semantic.min.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <title>PDO CRUD</title>
 </head>
 <body>
