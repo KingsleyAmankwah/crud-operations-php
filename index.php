@@ -21,8 +21,6 @@
 <body>
 
 <div class="container">
-    <a href="logout.php" class="btn btn-dark">Logout</a>
-
     <h4 class="display-6 text-center">PHP CRUD Operations Using PDO</h4>
     
   <form action="" method="post" class="mb-5">
